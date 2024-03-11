@@ -1,0 +1,16 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: black;
+}
+
+ button {
+border-radius: 5px;
+padding: 10px 10px;
+border: 1px solid #eedede;
+}
+span{
+    color: #fff;
+}
